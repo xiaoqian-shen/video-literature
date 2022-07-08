@@ -6,6 +6,10 @@
 
 #### 2022
 
+VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution
+
+[paper](https://arxiv.org/abs/2206.04647) [code](https://github.com/Picsart-AI-Research/VideoINR-Continuous-Space-Time-Super-Resolution) CVPR
+
 Generating Long Videos of Dynamic Scenes
 
 [paper](http://arxiv.org/abs/2206.03429) [no code](https://www.timothybrooks.com/tech/long-videos/)

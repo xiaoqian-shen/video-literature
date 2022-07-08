@@ -28,17 +28,17 @@ V3GAN: Decomposing Background, Foreground and Motion for Video Generation
 
 Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks
 
-[paper](http://arxiv.org/abs/2202.10571) [code]([sihyun-yu/digan: Official PyTorch implementation of Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks (ICLR 2022). (github.com)](https://github.com/sihyun-yu/digan)) ICLR
+[paper](http://arxiv.org/abs/2202.10571) [code]((https://github.com/sihyun-yu/digan)) ICLR
 
 #### 2021
 
 StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2
 
-[paper](http://arxiv.org/abs/2112.14683) [code]([universome/stylegan-v: [CVPR 2022\] StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2 (github.com)](https://github.com/universome/stylegan-v)) CVPR
+[paper](http://arxiv.org/abs/2112.14683) [code](https://github.com/universome/stylegan-v) CVPR
 
 VideoGPT: Video Generation using VQ-VAE and Transformers
 
-[paper]([[2104.10157\] VideoGPT: Video Generation using VQ-VAE and Transformers (arxiv.org)](https://arxiv.org/abs/2104.10157)) [code]([wilson1yan/VideoGPT (github.com)](https://github.com/wilson1yan/VideoGPT))
+[paper]((https://arxiv.org/abs/2104.10157)) [code](https://github.com/wilson1yan/VideoGPT))
 
 Generative Video Transformer: Can Objects be the Words?
 

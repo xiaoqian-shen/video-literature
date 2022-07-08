@@ -8,7 +8,7 @@
 
 Generating Long Videos of Dynamic Scenes
 
-[paper](http://arxiv.org/abs/2206.03429)
+[paper](http://arxiv.org/abs/2206.03429) [no code](https://www.timothybrooks.com/tech/long-videos/)
 
 Video2StyleGAN: Disentangling Local and Global Variations in a Video
 
@@ -20,13 +20,13 @@ Video Diffusion Models
 
 Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer
 
-[paper](http://arxiv.org/abs/2204.03638)
+[paper](http://arxiv.org/abs/2204.03638) [code](https://github.com/SongweiGe/TATS)
 
 V3GAN: Decomposing Background, Foreground and Motion for Video Generation
 
 [paper](https://arxiv.org/abs/2203.14074v1)
 
-Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks
+DIGAN: Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks
 
 [paper](http://arxiv.org/abs/2202.10571) [code]((https://github.com/sihyun-yu/digan)) ICLR
 
@@ -50,7 +50,7 @@ StyleVideoGAN: A Temporal Generative Model using a Pretrained StyleGAN
 
 MoCoGAN-HD: A Good Image Generator Is What You Need for High-Resolution Video Synthesis
 
-[paper](https://arxiv.org/abs/2104.15069v1) ICLR
+[paper](https://arxiv.org/abs/2104.15069v1) [code](https://github.com/snap-research/MoCoGAN-HD) ICLR
 
 InMoDeGAN: Interpretable Motion Decomposition Generative Adversarial Network for Video Generation
 

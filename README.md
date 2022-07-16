@@ -22,13 +22,17 @@ Video Diffusion Models
 
 [paper](http://arxiv.org/abs/2204.03458)
 
-Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer
+TATS: Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer
 
 [paper](http://arxiv.org/abs/2204.03638) [code](https://github.com/SongweiGe/TATS)
 
 V3GAN: Decomposing Background, Foreground and Motion for Video Generation
 
 [paper](https://arxiv.org/abs/2203.14074v1)
+
+```
+Three stream generator (spatially, temporally and video). Factorized spatio-temporal Self-Attention
+```
 
 DIGAN: Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks
 
@@ -42,7 +46,7 @@ StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks
 
 VideoGPT: Video Generation using VQ-VAE and Transformers
 
-[paper]((https://arxiv.org/abs/2104.10157)) [code](https://github.com/wilson1yan/VideoGPT))
+[paper]((https://arxiv.org/abs/2104.10157)) [code](https://github.com/wilson1yan/VideoGPT)
 
 Generative Video Transformer: Can Objects be the Words?
 

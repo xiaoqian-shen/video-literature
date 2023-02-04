@@ -2,57 +2,103 @@
 
 ## Video Generation
 
-### Unconditional
+#### 2023
+
+MAGVIT: Masked Generative Video Transformer
+
+[paper](https://magvit.cs.cmu.edu/)/[page]()/[code(coming soon)](https://github.com/MAGVIT/magvit) 
+
+MagicVideo: Efficient Video Generation With Latent Diffusion Models
+
+[paper](https://arxiv.org/abs/2211.11018)/[page](https://magicvideo.github.io/#)
+
+Phenaki: Variable Length Video Generation From Open Domain Textual Description
+
+[paper](https://arxiv.org/pdf/2210.02399.pdf) (ICLR 2023)
+
+Make-A-Video: Text-to-Video Generation without Text-Video Data
+
+(ICLR 2023)
+
+StyleFaceV: Face Video Generation via Decomposing and Recomposing Pretrained StyleGAN3
+
+[paper](https://arxiv.org/abs/2208.07862)/[page](http://haonanqiu.com/projects/StyleFaceV.html)/[code](https://github.com/arthur-qiu/StyleFaceV)
+
+CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers 
+
+[paper](https://arxiv.org/pdf/2205.15868.pdf)/[page](https://models.aminer.cn/cogvideo/)/[code](https://github.com/THUDM/CogVideo) (ICLR 2023)
 
 #### 2022
 
-VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution
-
-[paper](https://arxiv.org/abs/2206.04647)[code](https://github.com/Picsart-AI-Research/VideoINR-Continuous-Space-Time-Super-Resolution) CVPR
-
 Generating Long Videos of Dynamic Scenes
 
-[paper](http://arxiv.org/abs/2206.03429)[no code](https://www.timothybrooks.com/tech/long-videos/)
+[Paper](http://arxiv.org/abs/2206.03429)/[Page](https://www.timothybrooks.com/tech/long-videos/)/[Code](https://github.com/NVlabs/long-video-gan) (NeurIPS 2022)
+
+Video Diffusion Models
+
+[paper](http://arxiv.org/abs/2204.03458)/[page](https://video-diffusion.github.io/) (NeurIPS 2022)
+
+MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation
+
+[paper](https://arxiv.org/abs/2205.09853)/[page](https://mask-cond-video-diffusion.github.io/)/[code](https://github.com/voletiv/mcvd-pytorch) (NeurIPS 2022)
+
+TATS: Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer
+
+[paper](http://arxiv.org/abs/2204.03638)/[code](https://github.com/SongweiGe/TATS) (ECCV 2022)
+
+CelebV-HQ: A Large-Scale Video Facial Attributes Dataset
+
+[paper](https://arxiv.org/abs/2207.12393)/[page](https://celebv-hq.github.io/) (ECCV 2022)
+
+DIGAN: Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks
+
+[paper](http://arxiv.org/abs/2202.10571)/[code]((https://github.com/sihyun-yu/digan)) (ICLR 2022)
+
+MUGEN: A Playground for Video-Audio-Text Multimodal Understanding and GENeration
+
+[paper](https://arxiv.org/abs/2204.08058v3)/[page](https://mugen-org.github.io/)/[code](https://github.com/mugen-org/MUGEN_baseline) (ECCV 2022)
+
+VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution
+
+[paper](https://arxiv.org/abs/2206.04647)/[Code](https://github.com/Picsart-AI-Research/VideoINR-Continuous-Space-Time-Super-Resolution) (CVPR 2022)
+
+Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning
+
+[paper](http://arxiv.org/abs/2203.02573)/[page](https://snap-research.github.io/MMVID/)/[code](https://github.com/snap-research/MMVID) (CVPR 2022)
+
+StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2
+
+[paper](https://arxiv.org/abs/2112.14683)/[page](https://universome.github.io/stylegan-v)/[Code](https://github.com/universome/stylegan-v) (CVPR 2022)
 
 Video2StyleGAN: Disentangling Local and Global Variations in a Video
 
 [paper](https://arxiv.org/abs/2205.13996v2)
 
-Video Diffusion Models
+#### 2021
 
-[paper](http://arxiv.org/abs/2204.03458)
+CCVS: Context-aware Controllable Video Synthesis
 
-TATS: Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer
-
-[paper](http://arxiv.org/abs/2204.03638)[code](https://github.com/SongweiGe/TATS) ECCV
-
-`3D-VQGAN, replicate padding, sparse autoregressive / interpolation Transformer`
+[paper](http://arxiv.org/abs/2107.08037) NeurIPS
 
 V3GAN: Decomposing Background, Foreground and Motion for Video Generation
 
 [paper](https://arxiv.org/abs/2203.14074v1)
 
-`temporal transpose conv-1d and spatially repeated to foreground `
-
-DIGAN: Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks
-
-[paper](http://arxiv.org/abs/2202.10571)[code]((https://github.com/sihyun-yu/digan)) ICLR
-
 Playable Video Generation
 
-[paper](https://arxiv.org/abs/2101.12195v1)[code](https://github.com/willi-menapace/PlayableVideoGeneration) CVPR(oral)
+[paper](https://arxiv.org/abs/2101.12195v1)/[code](https://github.com/willi-menapace/PlayableVideoGeneration) (CVPR 2021 Oral)
 
-#### 2021
+Stochastic Image-to-Video Synthesis using cINNs
 
-StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2
+[paper](https://arxiv.org/abs/2105.04551)/[page](https://compvis.github.io/image2video-synthesis-using-cINNs/)/[code](https://github.com/CompVis/image2video-synthesis-using-cINNs) (CVPR 2021)
 
-[paper](http://arxiv.org/abs/2112.14683)[code](https://github.com/universome/stylegan-v) CVPR
+Generative Video Transformer: Can Objects be the Words?
 
-`motion generator, concate motion with const, infinite long video generation`
+[paper](http://arxiv.org/abs/2107.09240) (ICML 2021)
 
 VideoGPT: Video Generation using VQ-VAE and Transformers
 
-[paper]((https://arxiv.org/abs/2104.10157))[code](https://github.com/wilson1yan/VideoGPT)
+[paper]((https://arxiv.org/abs/2104.10157))/[code](https://github.com/wilson1yan/VideoGPT)
 
 StyleVideoGAN: A Temporal Generative Model using a Pretrained StyleGAN
 
@@ -60,31 +106,39 @@ StyleVideoGAN: A Temporal Generative Model using a Pretrained StyleGAN
 
 MoCoGAN-HD: A Good Image Generator Is What You Need for High-Resolution Video Synthesis
 
-[paper](https://arxiv.org/abs/2104.15069v1)[code](https://github.com/snap-research/MoCoGAN-HD) ICLR
+[paper](https://arxiv.org/abs/2104.15069v1)/[code](https://github.com/snap-research/MoCoGAN-HD) (ICLR 2021 Spotlight)
 
 InMoDeGAN: Interpretable Motion Decomposition Generative Adversarial Network for Video Generation
 
-[paper](https://arxiv.org/abs/2101.03049v1)
+[paper](https://arxiv.org/abs/2101.03049v1)/[page](https://wyhsirius.github.io/InMoDeGAN/)
 
 Temporal Shift GAN for Large Scale Video Generation
 
-[paper](https://openaccess.thecvf.com/content/WACV2021/papers/Munoz_Temporal_Shift_GAN_for_Large_Scale_Video_Generation_WACV_2021_paper.pdf) WACV
+[paper](https://openaccess.thecvf.com/content/WACV2021/papers/Munoz_Temporal_Shift_GAN_for_Large_Scale_Video_Generation_WACV_2021_paper.pdf) (WACV 2021)
 
 #### 2020
 
 Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image
 
-[paper](https://arxiv.org/abs/2012.09855v4) ICCV(oral)
+[paper](https://arxiv.org/abs/2012.09855v4)/[page](https://infinite-nature.github.io/)/[code](https://github.com/google-research/google-research/tree/master/infinite_nature) (ICCV 2021 oral)
 
 Learning Temporal Coherence via Self-Supervision for GAN-based Video Generation
 
-[paper](http://arxiv.org/abs/1811.09393) ACM(Graphics)
+[paper](http://arxiv.org/abs/1811.09393)/[page](https://ge.in.tum.de/publications/2019-tecogan-chu/)/[code](https://github.com/thunil/TecoGAN) (ACM Graphics)
 
 G3AN: Disentangling Appearance and Motion for Video Generation
 
-[paper](https://ieeexplore.ieee.org/document/9157816/)[code](https://github.com/wyhsirius/g3an-project) CVPR
+[paper](https://ieeexplore.ieee.org/document/9157816/)/[code](https://github.com/wyhsirius/g3an-project) (CVPR 2020)
 
-`Three stream generator (spatially, temporally and video). Factorized spatio-temporal Self-Attention`
+ImaGINator: Conditional Spatio-Temporal GAN for Video Generation
+
+[paper](https://ieeexplore.ieee.org/document/9093492/) (WACV)
+
+2019
+
+Conditional GAN with Discriminative Filter Generation for Text-to-Video Synthesis
+
+[paper](https://www.ijcai.org/proceedings/2019/276) IJCAI
 
 #### 2018
 
@@ -106,61 +160,21 @@ Generating Videos with Scene Dynamics
 
 ### Conditional
 
-#### 2022
-
-CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers
-
-[paper](https://arxiv.org/pdf/2205.15868.pdf)[code](https://github.com/THUDM/CogVideo)
-
 Temporally Consistent Semantic Video Editing
 
 [paper](https://arxiv.org/abs/2206.10590v1)
-
-CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers
-
-[paper](https://arxiv.org/abs/2205.15868v1)
-
-MUGEN: A Playground for Video-Audio-Text Multimodal Understanding and GENeration
-
-[paper](https://arxiv.org/abs/2204.08058v3)
-
-Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning
-
-[paper](http://arxiv.org/abs/2203.02573) CVPR
-
-#### 2021
-
-CCVS: Context-aware Controllable Video Synthesis
-
-[paper](http://arxiv.org/abs/2107.08037) NeurIPS
-
-Generative Video Transformer: Can Objects be the Words?
-
-[paper](http://arxiv.org/abs/2107.09240) ICML
-
-`object centric, [z pres, z where, z depth, z what]`
-
-#### 2020
-
-ImaGINator: Conditional Spatio-Temporal GAN for Video Generation
-
-[paper](https://ieeexplore.ieee.org/document/9093492/) WACV
-
-#### 2019
-
-Conditional GAN with Discriminative Filter Generation for Text-to-Video Synthesis
-
-[paper](https://www.ijcai.org/proceedings/2019/276) IJCAI
-
-
 
 ## Video Representation
 
 #### 2022
 
+Scalable Neural Video Representations with Learnable Positional Features
+
+[paper](https://arxiv.org/abs/2210.06823)/[page](https://subin-kim-cv.github.io/NVP/)/[code](https://github.com/subin-kim-cv/NVP) (NeurIPS 2022)
+
 MCL: Motion-Focused Contrastive Learning of Video Representations
 
-[paper](https://arxiv.org/abs/2201.04029v1) ICCV(oral)
+[paper](https://arxiv.org/abs/2201.04029v1) (ICCV 2022 oral)
 
 #### 2021
 
